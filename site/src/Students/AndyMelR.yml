@@ -46,18 +46,25 @@ education:
       que previamente forme en DAW. En el aprendí tecnologias como JavaScript,
       React, Bootstrap, Flux , Python, Sql, SqlAlchemy, Flask, Jwt, Jest y Habilidades como
       el trabajo grupal con git
+  - degree: desarrollo de aplicaciones web
+    academy: IFP
+    # optional
+    university_logo: 
+    time: sep-2020 - Sep-2022
+    details: |
+      Realizo estudios de Desarrollo de Aplicaciones Web. Tecnologías: Java, PHP, JavaScript, DOM, HTML5, CSS, XML, SQL, POO, Administración de Sistemas
 
 experiences:
  
-    company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+    company_logo: 
     details: 
-    To-Do List: Aplicacion para apuntar los quehaceres y eliminarlos cuando sean completados.
+    To-Do List: 
       Tecnologias: Html, Css, React con Eventos, Hooks y Fetch.
 
-    Dulce Sabor: Tienda de pastelerias donde el usuario tiene una interfaz amigable, puede crear una cuenta, generar una 'compra'  y marcar un producto como favorito. 
-      Tecnologias: React, StyledComponents, Css, Python, Flask, SqlAlchemy, PostgreSql ,Jwt , Git.
+    Sweeteners: Tienda de dulces saludables donde el usuario tiene una interfaz amigable, puede crear una cuenta, generar una 'compra'  y marcar un producto como favorito. 
+      Tecnologias: PHP, HTML, Css, MySQL ,Jwt , Git.
 
-    Fooder(Colaborativo): Aplicacion para postear recetas, con creacion de usuario y marcado de recetas como favoritas.
+    Fooder(Colaborativo): 
       Tecnologias: React, Flux, StyledComponents, Python , Flask, SqlAlchemy, PostgreSql, Jwt, Git.
 
   languages:  
